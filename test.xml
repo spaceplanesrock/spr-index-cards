@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heisig>
+	<lektion number="1">
+		<card number="1" front="一" back="eins"/>
+		<card number="2" front="二" back="zwei"/>
+		<card number="3" front="三" back="drei"/>
+		<card number="4" front="四" back="vier"/>
+		<card number="5" front="五" back="fünf"/>
+		<card number="6" front="六" back="sechs"/>
+		<card number="7" front="七" back="sieben"/>
+		<card number="8" front="ハ" back="acht"/>
+		<card number="9" front="九" back="neun"/>
+		<card number="10" front="十" back="zehn"/>
+		<card number="11" front="口" back="Mund"/>
+		<card number="12" front="日" back="Tag"/>
+		<card number="13" front="月" back="Monat"/>
+		<card number="14" front="田" back="Reisfeld"/>
+		<card number="15" front="目" back="Auge"/>
+	</lektion>
+	<lektion number="2">
+		<card number="16" front="古" back="alt"/>
+		<card number="17" front="吾" back="ich"/>
+		<card number="18" front="冒" back="riskieren"/>
+		<card number="19" front="朋" back="Gefährte"/>
+		<card number="20" front="明" back="hell"/>
+		<card number="21" front="唱" back="Gesang"/>
+		<card number="22" front="晶" back="Kristall"/>
+		<card number="23" front="品" back="Waren"/>
+		<card number="24" front="呂" back="Rückgrat"/>
+		<card number="25" front="昌" back="gedeihen"/>
+		<card number="26" front="早" back="früh"/>
+		<card number="27" front="旭" back="aufgehende Sonne"/>
+		<card number="28" front="世" back="Generation"/>
+		<card number="29" front="胃" back="Magen"/>
+		<card number="30" front="旦" back="Morgendämmerung"/>
+		<card number="31" front="胆" back="Gallenblase"/>
+		<card number="32" front="亘" back="Spanne"/>
+		<card number="33" front="凹" back="konkav"/>
+		<card number="34" front="凸" back="konvex"/>
+	</lektion>
+	<lektion number="3">
+		<card number="35" front="旧" back="alte Zeiten"/>
+		<card number="36" front="自" back="selbst"/>
+		<card number="37" front="白" back="weiß"/>
+		<card number="38" front="百" back="hundert"/>
+		<card number="39" front="中" back="in"/>
+		<card number="40" front="千" back="tausend"/>
+		<card number="41" front="舌" back="Zunge"/>
+		<card number="42" front="升" back="Messkästchen"/>
+		<card number="43" front="昇" back="aufsteigen"/>
+		<card number="44" front="丸" back="rund"/>
+		<card number="45" front="寸" back="Längenmaß"/>
+		<card number="46" front="肘" back="Ellenbogen"/>
+		<card number="47" front="専" back="Spezialgebiet"/>
+		<card number="48" front="博" back="Dr."/>
+		<card number="49" front="占" back="wahrsagen"/>
+		<card number="50" front="上" back="auf"/>
+		<card number="51" front="下" back="unter"/>
+		<card number="52" front="卓" back="hervorragend"/>
+		<card number="53" front="朝" back="Morgen"/>
+		<card number="54" front="嘲" back="Hohn"/>
+	</lektion>
+</heisig>
