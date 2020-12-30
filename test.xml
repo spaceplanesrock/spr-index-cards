@@ -60,4 +60,26 @@
 		<card number="53" front="朝" back="Morgen"/>
 		<card number="54" front="嘲" back="Hohn"/>
 	</lektion>
+	<lektion number="4">
+		<card number="55" front="只" back="nur"/>
+		<card number="56" front="貝" back="Muschel"/>
+		<card number="57" front="唄" back="Schlager"/>
+		<card number="58" front="貞" back="keusch"/>
+		<card number="59" front="員" back="Mitglied"/>
+		<card number="60" front="貼" back="aufkleben"/>
+		<card number="61" front="見" back="sehen"/>
+		<card number="62" front="児" back="Säugling"/>
+		<card number="63" front="元" back="Anfang"/>
+		<card number="64" front="頁" back="Buchseite"/>
+		<card number="65" front="頑" back="hartnäckig"/>
+		<card number="66" front="凡" back="durchschnittlich"/>
+		<card number="67" front="負" back="unterliegen"/>
+		<card number="68" front="万" back="zehntausend"/>
+		<card number="69" front="句" back="Ausdruck"/>
+		<card number="70" front="肌" back="Oberfläche"/>
+		<card number="71" front="旬" back="Zeitraum von zehn Tagen"/>
+		<card number="72" front="勺" back="Kelle"/>
+		<card number="73" front="的" back="Zielscheibe"/>
+		<card number="74" front="首" back="Hals"/>
+	</lektion>
 </heisig>
