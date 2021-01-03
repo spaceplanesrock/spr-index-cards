@@ -82,4 +82,30 @@
 		<card number="73" front="的" back="Zielscheibe"/>
 		<card number="74" front="首" back="Hals"/>
 	</lektion>
+	<lektion number="5">
+		<card number="75" front="乙" back="delikat"/>
+		<card number="76" front="乱" back="Aufruhr"/>
+		<card number="77" front="直" back="direkt"/>
+		<card number="78" front="具" back="Werkzeug"/>
+		<card number="79" front="真" back="wahr"/>
+		<card number="80" front="工" back="Handwerk"/>
+		<card number="81" front="左" back="links"/>
+		<card number="82" front="右" back="rechts"/>
+		<card number="83" front="有" back="besitzen"/>
+		<card number="84" front="賄" back="Bestechung"/>
+		<card number="85" front="貢" back="Abgabe"/>
+		<card number="86" front="項" back="Abschnitt"/>
+		<card number="87" front="刀" back="Schwert"/>
+		<card number="88" front="刃" back="Klinge"/>
+		<card number="89" front="切" back="schneiden"/>
+		<card number="90" front="召" back="locken"/>
+		<card number="91" front="昭" back="gleißend"/>
+		<card number="92" front="則" back="Regel"/>
+		<card number="93" front="副" back="Vize-"/>
+		<card number="94" front="別" back="getrennt"/>
+		<card number="95" front="丁" back="Häuserblock"/>
+		<card number="96" front="町" back="Stadt"/>
+		<card number="97" front="可" back="möglich"/>
+		<card number="98" front="頂" back="auf den Kopf"/>
+	</lektion>
 </heisig>
