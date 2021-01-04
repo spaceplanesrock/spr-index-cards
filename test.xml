@@ -108,4 +108,43 @@
 		<card number="97" front="可" back="möglich"/>
 		<card number="98" front="頂" back="auf den Kopf"/>
 	</lektion>
+	<lektion number="6">
+		<card number="99" front="子" back="Kind"/>
+		<card number="100" front="孔" back="Ritze"/>
+		<card number="101" front="了" back="fertig"/>
+		<card number="102" front="女" back="Frau"/>
+		<card number="103" front="好" back="mögen"/>
+		<card number="104" front="如" back="als ob"/>
+		<card number="105" front="母" back="Mama"/>
+		<card number="106" front="貫" back="durchbohren"/>
+		<card number="107" front="兄" back="älterer Bruder"/>
+		<card number="108" front="呪" back="Fluch"/>
+		<card number="109" front="克" back="überwinden"/>
+	</lektion>
+	<lektion number="7">
+		<card number="110" front="小" back="klein"/>
+		<card number="111" front="少" back="wenig"/>
+		<card number="112" front="大" back="groß"/>
+		<card number="113" front="多" back="viele"/>
+		<card number="114" front="夕" back="Abend"/>
+		<card number="115" front="汐" back="abendliche Gezeiten"/>
+		<card number="116" front="外" back="draußen"/>
+		<card number="117" front="名" back="Name"/>
+		<card number="118" front="石" back="Stein"/>
+		<card number="119" front="肖" back="gleichen"/>
+		<card number="120" front="硝" back="Salpeter"/>
+		<card number="121" front="砕" back="zerschmettern"/>
+		<card number="122" front="砂" back="Sand"/>
+		<card number="123" front="妬" back="eifersüchtig"/>
+		<card number="124" front="削" back="hobeln"/>
+		<card number="125" front="光" back="Licht"/>
+		<card number="126" front="太" back="dick"/>
+		<card number="127" front="器" back="Geschirr"/>
+		<card number="128" front="臭" back="übel riechend"/>
+		<card number="129" front="嗅" back="schnüffeln"/>
+		<card number="130" front="妙" back="bezaubernd"/>
+		<card number="131" front="省" back="sich besinnen auf"/>
+		<card number="132" front="厚" back="dicht"/>
+		<card number="133" front="奇" back="seltsam"/>
+	</lektion>
 </heisig>
