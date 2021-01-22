@@ -147,4 +147,57 @@
 		<card number="132" front="厚" back="dicht"/>
 		<card number="133" front="奇" back="seltsam"/>
 	</lektion>
+	<lektion number="8">
+		<card number="134" front="川" back="Fluss"/>
+		<card number="135" front="州" back="Staat"/>
+		<card number="136" front="順" back="gehorchen"/>
+		<card number="137" front="水" back="Wasser"/>
+		<card number="138" front="氷" back="Eiszapfen"/>
+		<card number="139" front="永" back="Ewigkeit"/>
+		<card number="140" front="泉" back="Springquell"/>
+		<card number="141" front="腺" back="Drüse"/>
+		<card number="142" front="原" back="Wiese"/>
+		<card number="143" front="願" back="Gesuch"/>
+		<card number="144" front="泳" back="schwimmen"/>
+		<card number="145" front="沼" back="Morast"/>
+		<card number="146" front="沖" back="offenes Meer"/>
+		<card number="147" front="汎" back="pan-"/>
+		<card number="148" front="江" back="Meeresarm"/>
+		<card number="149" front="汰" back="aussortieren"/>
+		<card number="150" front="汁" back="Suppe"/>
+		<card number="151" front="沙" back="Sandkörner"/>
+		<card number="152" front="潮" back="Gezeiten"/>
+		<card number="153" front="源" back="Quelle"/>
+		<card number="154" front="活" back="lebendig"/>
+		<card number="155" front="消" back="löschen"/>
+		<card number="156" front="況" back="Zustand"/>
+		<card number="157" front="河" back="Strom"/>
+		<card number="158" front="泊" back="übernachten"/>
+		<card number="159" front="湖" back="See"/>
+		<card number="160" front="測" back="ausloten"/>
+		<card number="161" front="土" back="Erde"/>
+		<card number="162" front="吐" back="ausspucken"/>
+		<card number="163" front="圧" back="Druck"/>
+		<card number="164" front="埼" back="Kap"/>
+		<card number="165" front="垣" back="Hecke"/>
+		<card number="166" front="填" back="einlegen"/>
+		<card number="167" front="圭" back="eckiger Edelstein"/>
+		<card number="168" front="封" back="Siegel"/>
+		<card number="169" front="涯" back="Horizont"/>
+		<card number="170" front="寺" back="buddhistischer Tempel"/>
+		<card number="171" front="時" back="Zeit"/>
+		<card number="172" front="均" back="ebnen"/>
+		<card number="173" front="火" back="Feuer"/>
+		<card number="174" front="炎" back="Entzündung"/>
+		<card number="175" front="煩" back="Sorgen"/>
+		<card number="176" front="淡" back="blass"/>
+		<card number="177" front="灯" back="Lampe"/>
+		<card number="178" front="畑" back="Acker"/>
+		<card number="179" front="災" back="Katastrophe"/>
+		<card number="180" front="灰" back="Asche"/>
+		<card number="181" front="点" back="Punkt"/>
+		<card number="182" front="照" back="scheinen"/>
+		<card number="183" front="魚" back="Fisch"/>
+		<card number="184" front="漁" back="Fischfang"/>
+	</lektion>
 </heisig>
