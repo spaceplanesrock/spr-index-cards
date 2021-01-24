@@ -200,4 +200,28 @@
 		<card number="183" front="魚" back="Fisch"/>
 		<card number="184" front="漁" back="Fischfang"/>
 	</lektion>
+	<lektion number="9">
+		<card number="185" front="里" back="Ri"/>
+		<card number="186" front="黒" back="schwarz"/>
+		<card number="187" front="墨" back="Tusche"/>
+		<card number="188" front="鯉" back="Karpfen"/>
+		<card number="189" front="量" back="Menge"/>
+		<card number="190" front="厘" back="Rin"/>
+		<card number="191" front="埋" back="begraben"/>
+		<card number="192" front="同" back="identisch"/>
+		<card number="193" front="洞" back="Grotte"/>
+		<card number="194" front="胴" back="Rumpf"/>
+		<card number="195" front="向" back="gerichtet an"/>
+		<card number="196" front="尚" back="Wertschätzung"/>
+		<card number="197" front="字" back="Schriftzeichen"/>
+		<card number="198" front="守" back="Wache"/>
+		<card number="199" front="完" back="vollendet"/>
+		<card number="200" front="宣" back="verkünden"/>
+		<card number="201" front="宵" back="bis in die Puppen"/>
+		<card number="202" front="安" back="ruhig"/>
+		<card number="203" front="宴" back="Festmahl"/>
+		<card number="204" front="寄" back="sich nähern"/>
+		<card number="205" front="富" back="Reichtum"/>
+		<card number="206" front="貯" back="Ersparnisse"/>
+	</lektion>
 </heisig>
