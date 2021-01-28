@@ -224,4 +224,49 @@
 		<card number="205" front="富" back="Reichtum"/>
 		<card number="206" front="貯" back="Ersparnisse"/>
 	</lektion>
+	<lektion number="10">
+		<card number="207" front="木" back="Baum"/>
+		<card number="208" front="林" back="Hain"/>
+		<card number="209" front="森" back="Wald"/>
+		<card number="210" front="桂" back="Katsura"/>
+		<card number="211" front="柏" back="Eiche"/>
+		<card number="212" front="枠" back="Rahmen"/>
+		<card number="213" front="梢" back="Wipfel"/>
+		<card number="214" front="棚" back="Regal"/>
+		<card number="215" front="杏" back="Aprikose"/>
+		<card number="216" front="桐" back="Paulownie"/>
+		<card number="217" front="植" back="pflanzen"/>
+		<card number="218" front="椅" back="Stuhl"/>
+		<card number="219" front="枯" back="verdorren"/>
+		<card number="220" front="朴" back="schlicht"/>
+		<card number="221" front="村" back="Dorf"/>
+		<card number="222" front="相" back="einander"/>
+		<card number="223" front="机" back="Schreibtisch"/>
+		<card number="224" front="本" back="Buch"/>
+		<card number="225" front="札" back="Etikett"/>
+		<card number="226" front="暦" back="Kalender"/>
+		<card number="227" front="案" back="Vorhaben"/>
+		<card number="228" front="燥" back="dörren"/>
+		<card number="229" front="未" back="noch nicht"/>
+		<card number="230" front="末" back="schließlich"/>
+		<card number="231" front="昧" back="unklar"/>
+		<card number="232" front="沫" back="Gischt"/>
+		<card number="233" front="味" back="Geschmack"/>
+		<card number="234" front="妹" back="jüngere Schwester"/>
+		<card number="235" front="朱" back="zinoberrot"/>
+		<card number="236" front="株" back="Aktie"/>
+		<card number="237" front="若" back="jung"/>
+		<card number="238" front="草" back="Gras"/>
+		<card number="239" front="苦" back="leiden"/>
+		<card number="240" front="苛" back="Schikane"/>
+		<card number="241" front="寛" back="nachsichtig"/>
+		<card number="242" front="薄" back="verdünnen"/>
+		<card number="243" front="葉" back="Laub"/>
+		<card number="244" front="模" back="Imitation"/>
+		<card number="245" front="漠" back="vage"/>
+		<card number="246" front="墓" back="Grab"/>
+		<card number="247" front="暮" back="Lebensunterhalt"/>
+		<card number="248" front="膜" back="Membran"/>
+		<card number="249" front="苗" back="Setzling"/>
+	</lektion>
 </heisig>
