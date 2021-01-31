@@ -269,4 +269,21 @@
 		<card number="248" front="膜" back="Membran"/>
 		<card number="249" front="苗" back="Setzling"/>
 	</lektion>
+	<lektion number="11">
+		<card number="250" front="兆" back="Vorzeichen"/>
+		<card number="251" front="桃" back="Pfirsich"/>
+		<card number="252" front="眺" back="anstarren"/>
+		<card number="253" front="犬" back="Hund"/>
+		<card number="254" front="状" back="die Umstände"/>
+		<card number="255" front="黙" back="schweigen"/>
+		<card number="256" front="然" back="-artig"/>
+		<card number="257" front="荻" back="Schilf"/>
+		<card number="258" front="狩" back="jagen"/>
+		<card number="259" front="猫" back="Katze"/>
+		<card number="260" front="牛" back="Kuh"/>
+		<card number="261" front="特" back="speziell"/>
+		<card number="262" front="告" back="Ansage"/>
+		<card number="263" front="先" back="voran"/>
+		<card number="264" front="洗" back="waschen"/>
+	</lektion>
 </heisig>
