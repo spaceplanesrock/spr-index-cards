@@ -286,4 +286,36 @@
 		<card number="263" front="先" back="voran"/>
 		<card number="264" front="洗" back="waschen"/>
 	</lektion>
+	<lektion number="12">
+		<card number="265" front="介" back="dazwischen"/>
+		<card number="266" front="界" back="Welt"/>
+		<card number="267" front="茶" back="Tee"/>
+		<card number="268" front="脊" back="Wirbelsäule"/>
+		<card number="269" front="合" back="passen"/>
+		<card number="270" front="塔" back="Pagode"/>
+		<card number="271" front="王" back="König"/>
+		<card number="272" front="玉" back="Edelstein"/>
+		<card number="273" front="宝" back="Schatz"/>
+		<card number="274" front="珠" back="Perle"/>
+		<card number="275" front="現" back="gegenwärtig"/>
+		<card number="276" front="玩" back="Spielzeug"/>
+		<card number="277" front="狂" back="verrückt"/>
+		<card number="278" front="旺" back="munter"/>
+		<card number="279" front="皇" back="Kaiser"/>
+		<card number="280" front="呈" back="darbieten"/>
+		<card number="281" front="全" back="gesamt"/>
+		<card number="282" front="栓" back="Stöpsel"/>
+		<card number="283" front="理" back="Logik"/>
+		<card number="284" front="主" back="Herr"/>
+		<card number="285" front="注" back="gießen"/>
+		<card number="286" front="柱" back="Pfeiler"/>
+		<card number="287" front="金" back="Gold"/>
+		<card number="288" front="銑" back="Roheisen"/>
+		<card number="289" front="鉢" back="Schüssel"/>
+		<card number="290" front="銅" back="Kupfer"/>
+		<card number="291" front="釣" back="angeln"/>
+		<card number="292" front="針" back="Nadel"/>
+		<card number="293" front="銘" back="Inschrift"/>
+		<card number="294" front="鎮" back="beruhigen"/>
+	</lektion>
 </heisig>
