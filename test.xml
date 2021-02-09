@@ -318,4 +318,32 @@
 		<card number="293" front="銘" back="Inschrift"/>
 		<card number="294" front="鎮" back="beruhigen"/>
 	</lektion>
+	<lektion number="13">
+		<card number="295" front="道" back="Weg"/>
+		<card number="296" front="導" back="leiten"/>
+		<card number="297" front="辻" back="Kreuzung"/>
+		<card number="298" front="迅" back="rasch"/>
+		<card number="299" front="造" back="erschaffen"/>
+		<card number="300" front="迫" back="bedrängen"/>
+		<card number="301" front="逃" back="fliehen"/>
+		<card number="302" front="辺" back="Umgebung"/>
+		<card number="303" front="巡" back="Patrouille"/>
+		<card number="304" front="車" back="Wagen"/>
+		<card number="305" front="連" back="mitnehmen"/>
+		<card number="306" front="軌" back="Spurrille"/>
+		<card number="307" front="輸" back="transportieren"/>
+		<card number="308" front="喩" back="Metapher"/>
+		<card number="309" front="前" back="vor"/>
+		<card number="310" front="煎" back="rösten"/>
+		<card number="311" front="各" back="jeder"/>
+		<card number="312" front="格" back="Status"/>
+		<card number="313" front="賂" back="Schmiergeld"/>
+		<card number="314" front="略" back="Abkürzung"/>
+		<card number="315" front="客" back="Gast"/>
+		<card number="316" front="額" back="Stirn"/>
+		<card number="317" front="夏" back="Sommer"/>
+		<card number="318" front="処" back="an seinem Platz"/>
+		<card number="319" front="条" back="Klausel"/>
+		<card number="320" front="落" back="fallen"/>
+	</lektion>
 </heisig>
