@@ -346,4 +346,31 @@
 		<card number="319" front="条" back="Klausel"/>
 		<card number="320" front="落" back="fallen"/>
 	</lektion>
+	<lektion number="14">
+		<card number="321" front="冗" back="überflüssig"/>
+		<card number="322" front="冥" back="Unterwelt"/>
+		<card number="323" front="軍" back="Armee"/>
+		<card number="324" front="輝" back="leuchten"/>
+		<card number="325" front="運" back="tragen"/>
+		<card number="326" front="冠" back="Krone"/>
+		<card number="327" front="夢" back="Traum"/>
+		<card number="328" front="坑" back="Grube"/>
+		<card number="329" front="高" back="hoch"/>
+		<card number="330" front="享" back="genießen"/>
+		<card number="331" front="塾" back="Nachhilfeschule"/>
+		<card number="332" front="熟" back="reifen"/>
+		<card number="333" front="亭" back="Pavillon"/>
+		<card number="334" front="京" back="Hauptstadt"/>
+		<card number="335" front="涼" back="erfrischend"/>
+		<card number="336" front="景" back="Landschaft"/>
+		<card number="337" front="鯨" back="Wal"/>
+		<card number="338" front="舎" back="Hütte"/>
+		<card number="339" front="周" back="Umfang"/>
+		<card number="340" front="週" back="Woche"/>
+		<card number="341" front="士" back="Samurai"/>
+		<card number="342" front="吉" back="Glück"/>
+		<card number="343" front="壮" back="beste Mannesjahre"/>
+		<card number="344" front="荘" back="Villa"/>
+		<card number="345" front="売" back="verkaufen"/>
+	</lektion>
 </heisig>
