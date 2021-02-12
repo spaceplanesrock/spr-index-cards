@@ -373,4 +373,37 @@
 		<card number="344" front="荘" back="Villa"/>
 		<card number="345" front="売" back="verkaufen"/>
 	</lektion>
+	<lektion number="15">
+		<card number="346" front="学" back="studieren"/>
+		<card number="347" front="覚" back="sich merken"/>
+		<card number="348" front="栄" back="brillieren"/>
+		<card number="349" front="書" back="schreiben"/>
+		<card number="350" front="津" back="Anlegeplatz"/>
+		<card number="351" front="牧" back="züchten"/>
+		<card number="352" front="攻" back="angreifen"/>
+		<card number="353" front="敗" back="Niederlage"/>
+		<card number="354" front="枚" back="Blatt"/>
+		<card number="355" front="故" back="Anlass"/>
+		<card number="356" front="敬" back="Ehrfurcht"/>
+		<card number="357" front="言" back="sagen"/>
+		<card number="358" front="警" back="verwarnen"/>
+		<card number="359" front="計" back="Plan"/>
+		<card number="360" front="詮" back="erörtern"/>
+		<card number="361" front="獄" back="Gefängnis"/>
+		<card number="362" front="訂" back="korrigieren"/>
+		<card number="363" front="訃" back="Todesanzeige"/>
+		<card number="364" front="討" back="züchtigen"/>
+		<card number="365" front="訓" back="Belehrung"/>
+		<card number="366" front="詔" back="kaiserlicher Erlass"/>
+		<card number="367" front="詰" back="stopfen"/>
+		<card number="368" front="話" back="sprechen"/>
+		<card number="369" front="詠" back="rezitieren"/>
+		<card number="370" front="詩" back="Gedicht"/>
+		<card number="371" front="語" back="Sprache"/>
+		<card number="372" front="読" back="lesen"/>
+		<card number="373" front="調" back="stimmen"/>
+		<card number="374" front="談" back="diskutieren"/>
+		<card number="375" front="諾" back="Zustimmung"/>
+		<card number="376" front="諭" back="ermahnen"/>
+	</lektion>
 </heisig>
